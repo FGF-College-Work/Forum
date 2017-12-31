@@ -8,6 +8,14 @@
 
 _____
 
+<p align="center">
+  <a href="https://github.com/FGF-College-Work/Forum/issues"><img src="https://github.com/frontendbr/forum/raw/ff96068c309b022d15fec77586c1990097af0406/btn.png" alt="FrontEndBR" width="119" /></a>
+</p>
+
+_____
+
+
+
 ## Propósito
 
 Objetivo central é ajudar os alunos da Faculdade FGF a organizar um base de conhecimento atraves de discussões e compartilhamento de conhecimento atraves de conversas sobre temas diversos ligado a tecnologia.
